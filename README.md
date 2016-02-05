@@ -1,3 +1,3 @@
 # git_exsample
 
-test1+hoge
+test1+rm
