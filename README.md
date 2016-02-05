@@ -1,3 +1,3 @@
 # git_exsample
 
-test1+rm+viUpdate+hogehogehoge
+test1+rm+viUpdate+hogehogehoge+testNow
