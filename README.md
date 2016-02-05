@@ -2,4 +2,4 @@
 
 test1+rm+viUpdate+hogehogehoge+testNow++confricte
 change1
-change2
+change2 + foo
